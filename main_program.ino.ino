@@ -3,7 +3,7 @@
 #define BLYNK_AUTH_TOKEN "rJI6E5GDFlM1DQtaL8rseDgvElvKGS95"
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid [] = "SVTECHNOLOGIES";
+char ssid [] = "Althafsyed";
 char pass [] = "Smart.23";
 
 #define BLYNK_PRINT Serial
